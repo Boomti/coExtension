@@ -28,3 +28,18 @@ L'icone en forme en forme de cloche vous permettra de voir vos différentes noti
 La dernière icone à droite de la cloche, vous permettra d'accéder à discord si vous possédez un compte.
 
 Pour vous déconnecter de votre web extension, vous n'aurez qu'à appuyer sur mon compte puis déconnection.
+
+
+# Installation
+
+
+## Chrome
+
+Pour installer la web extension communecter depuis votre navigateur, cliquez sur le bouton qui vous permet de d'accéder à vos extensions, et activez le mode développeur, sur puis cliquez sur le bouton chargez l'extension non empaqutée. Allez dans le répertoire de communecter et cherchez le dossier modules, puis coExtension et appuyé sur open.
+
+
+
+## Firefox
+
+Pour installer la web extension communecter depuis votre navigateur, cliquez sur menu, ouvrez "extension/add-ons",puis cliquez sur le petit engrenage et appuyez sur "debug add-ons", cliquez sur "Charger un complément temporaire" et sélectionnez un fichier dans le répertoire de votre extension.
+L'extension va maintenant être installée et restera en place jusqu'à ce que vous redémarriez Firefox.
